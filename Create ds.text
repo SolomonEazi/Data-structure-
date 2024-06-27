@@ -1,0 +1,54 @@
+Ds is a collection of data that follows a consistent set of rules.
+
+
+
+Array is a homogenous collection of elements.
+
+int[] intArray = new int[5]
+
+
+
+Stack
+
+
+
+Don't remove from an empty Stack
+
+Insert at the top
+
+remove from the top
+
+Don't insert into a stack that is full
+
+
+
+Stack overflow
+
+
+
+
+
+top index of a stack = -1
+
+
+
+The process of adding an item into a stack is called push()
+
+The process of removing an item into a stack is called pop()
+
+
+
+Before pushing an item into a stack make sure it is not full
+
+size - 1
+
+
+
+
+
+TOWER OF HANOI - Largest to smallest,
+
+    No item can be placed on top of a smaller item,
+
+    you can only move one at a time.
+
